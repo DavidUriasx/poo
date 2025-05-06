@@ -1,5 +1,5 @@
 # POO - PostMail
-# 📦 API POSTMAIL - Gestión de Envíos con Créditos 🚚💳
+# 📦 API POSTMAIL - Gestión de Envíos con Créditos ✈️📬
 
 Este proyecto es una API REST hecha con **Node.js + Express + MongoDB** que permite a los usuarios:
 
@@ -11,7 +11,7 @@ Este proyecto es una API REST hecha con **Node.js + Express + MongoDB** que perm
 
 ---
 
-## 💠 Tecnologías usadas
+## 🤖 Tecnologías usadas
 
 * Node.js
 * Express
@@ -58,7 +58,7 @@ npm start
 
 ## 🥪 Endpoints disponibles
 
-### 🔹 Usuarios
+### 👤 Usuarios
 
 * `GET /usuario/:id/credito`
   Muestra los créditos de un usuario
@@ -74,7 +74,7 @@ npm start
 
 ---
 
-### 🔹 Envíos
+###  ✉️ Envíos
 
 * `POST /envios`
   Registra un nuevo envío
@@ -96,7 +96,7 @@ npm start
 
 ---
 
-### 🔹 Productos
+### 📦 Productos
 
 * `GET /productos`
   Muestra todos los productos disponibles
